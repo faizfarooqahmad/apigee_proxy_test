@@ -7,6 +7,9 @@
             <Step>
                 <Name>Extract-Variables-1</Name>
             </Step>
+            <Step>
+                <Name>Verify-API-Key-1</Name>
+            </Step>
         </Request>
         <Response/>
     </PreFlow>

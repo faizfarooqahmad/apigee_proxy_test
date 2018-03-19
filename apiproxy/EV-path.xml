@@ -6,11 +6,12 @@
     <CreatedBy>faij.ahmad@tcs.com</CreatedBy>
     <Description></Description>
     <DisplayName>EV-path</DisplayName>
-    <LastModifiedAt>1521271681937</LastModifiedAt>
+    <LastModifiedAt>1521422335129</LastModifiedAt>
     <LastModifiedBy>faij.ahmad@tcs.com</LastModifiedBy>
-    <ManifestVersion>f51f79bde8696fbb99f4af7c4538b780d8d0b80f8fa9d9d15eb526b099778f5c6ad0c83d73844279fcf675a4cbf01fa892f68f6d6caa5ab666e0c5f354062527</ManifestVersion>
+    <ManifestVersion>c8b7c5e5e95fedd5351274acc531a289f35a2df507c6bb8453859662ff1a7b709be16fe2c1aea2edb0dc004f6856c412474f15a8c2557b54fed2328c91783a97</ManifestVersion>
     <Policies>
         <Policy>Extract-Variables-1</Policy>
+        <Policy>Verify-API-Key-1</Policy>
     </Policies>
     <ProxyEndpoints>
         <ProxyEndpoint>default</ProxyEndpoint>
