@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="EV-path">
+    <Basepaths>/v1/ev-path</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1521271601822</CreatedAt>
+    <CreatedBy>faij.ahmad@tcs.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>EV-path</DisplayName>
+    <LastModifiedAt>1521271681937</LastModifiedAt>
+    <LastModifiedBy>faij.ahmad@tcs.com</LastModifiedBy>
+    <ManifestVersion>f51f79bde8696fbb99f4af7c4538b780d8d0b80f8fa9d9d15eb526b099778f5c6ad0c83d73844279fcf675a4cbf01fa892f68f6d6caa5ab666e0c5f354062527</ManifestVersion>
+    <Policies>
+        <Policy>Extract-Variables-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

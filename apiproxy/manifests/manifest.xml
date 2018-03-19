@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+    <Policies>
+        <VersionInfo resourceName="Extract-Variables-1" version="7adeb6de5127eda8a12d0340f804787d65b52b1f86d0b2b86867e84179e19dbf7d098de3456636c95a409074ec794563d2ac563ce6fe1b3f9f65ffb96eef55cb"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="6d8173378325d9fd5844163d08775e91451a3e913fa9989ba0fd57ff4c5af7c4d2e8ade231b59c7d040d01e2fb2a5b723ac57cd9082a22276a003d9602ad07a4"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="46e6ab93d7488cb36622d310c82b64fd4e38655c2db8fa263276b74a48aab14ea47ea9796fcb86218352129d28c81eb62a4c999ff57978022cb5045ec6676346"/>
+    </TargetEndpoints>
+</Manifest>
